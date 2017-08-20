@@ -1,0 +1,6 @@
+{
+    "config":{
+        "jsonDbUrl":"http://localhost:3000/tasks",
+        "serverPort":"4000"
+    }
+}
